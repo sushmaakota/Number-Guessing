@@ -1,8 +1,11 @@
 # Number-Guessing
 # Rules for the Number Guessing Game:
-1.Range of Numbers: The computer randomly selects a number between 1 and 100.
-2.Number of Trials: The player has 5 chances to guess the correct number.
-3.Hints: After each incorrect guess, the game provides a hint:
+# 1.Range of Numbers: 
+     The computer randomly selects a number between 1 and 100.
+# 2.Number of Trials: 
+     The player has 5 chances to guess the correct number.
+# 3.Hints: 
+After each incorrect guess, the game provides a hint:
       If the guessed number is too low, the game informs the player that the correct number is greater.
       If the guessed number is too high, the game informs the player that the correct number is smaller.
 4.Winning Condition: The player wins if they guess the correct number within the allowed 5 attempts.
